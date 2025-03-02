@@ -6,7 +6,7 @@ To use scripts on Roblox, you will need a script executor.
 
 Recommended Executor for iOS:
 Arceus X Neo
-Website: Arceus X
+Website: https://arceusx.com/#google_vignette
 
 Download the iOS version (the file should be .ipa).
 
